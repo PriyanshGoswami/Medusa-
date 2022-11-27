@@ -36,7 +36,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 > If you want to start working with AviaxMusic you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/AviaxSupport)
+> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/Red7WatchSupport)
 
 
 ## 🖇 Prerequisites
@@ -93,7 +93,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@AviaxSupport](https://telegram.me/AviaxSupport) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@Red7WatchSupport](https://telegram.me/Red7WatchSupport) if you face any problem
 
 </details>
 
@@ -124,8 +124,8 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/Red_Seven_Network)
+- [Support Group](https://telegram.me/Red7WatchSupport)
 
 ## 🎗 Project assistance
 
