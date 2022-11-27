@@ -32,6 +32,11 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
                 text="💬 Support Group", url="https://t.me/Red7WatchSupport"
             ),                       
         ],
+        [
+            InlineKeyboardButton(
+                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
+            ),                                  
+        ]
     ]
 )
 
@@ -54,6 +59,11 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="💬 Support Group", url="https://t.me/Red7WatchSupport"
             ),                       
         ],
+        [
+            InlineKeyboardButton(
+                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
+            ),                                  
+        ]
     ]
 )
 
@@ -71,7 +81,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="t.me/OnlyHers"
+                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
             ),                                   
         ],
         [
@@ -99,12 +109,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="t.me/OnlyHers"
+                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="t.me/OnlyHers"
+                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
             ),                                   
         ],
         [
@@ -133,7 +143,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Sudo Commands", url="t.me/OnlyHers"
+                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
             ),                        
         ],
         [
