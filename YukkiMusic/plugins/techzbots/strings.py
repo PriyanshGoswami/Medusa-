@@ -26,10 +26,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/Red7WatchSupport"
+                text="📣 Updates Channel", url="https://t.me/Red_Seven_Network"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/Red_Seven_Network"
+                text="💬 Support Group", url="https://t.me/Red7WatchSupport"
             ),                       
         ],
     ]
@@ -48,10 +48,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/Red7WatchSupport"
+                text="📣 Updates Channel", url="https://t.me/Red_Seven_Network"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/Red_Seven_Network"
+                text="💬 Support Group", url="https://t.me/Red7WatchSupport"
             ),                       
         ],
     ]
