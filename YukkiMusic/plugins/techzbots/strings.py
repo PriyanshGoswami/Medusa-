@@ -26,10 +26,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
+                text="📣 Updates Channel", url="https://t.me/Red7WatchSupport"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/AviaxSupport"
+                text="💬 Support Group", url="https://t.me/Red_Seven_Network"
             ),                       
         ],
     ]
@@ -48,10 +48,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
+                text="📣 Updates Channel", url="https://t.me/Red7WatchSupport"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/AviaxSupport"
+                text="💬 Support Group", url="https://t.me/Red_Seven_Network"
             ),                       
         ],
     ]
@@ -71,7 +71,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
+                text="Extra Commands", url="t.me/OnlyHers"
             ),                                   
         ],
         [
@@ -99,12 +99,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
+                text="Sudo Commands", url="t.me/OnlyHers"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
+                text="Extra Commands", url="t.me/OnlyHers"
             ),                                   
         ],
         [
