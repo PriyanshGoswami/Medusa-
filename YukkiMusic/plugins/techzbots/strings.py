@@ -26,10 +26,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/Red_Seven_Network"
+                text="📣 Updates Channel", url="https://t.me/ArcaneMultiverse"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/Red7WatchSupport"
+                text="💬 Support Group", url="https://t.me/PokemonSupport"
             ),                       
         ],
     ]
